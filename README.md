@@ -1,5 +1,5 @@
 # 937: Lockdown
 
-# [ Coming soon ]
+A game based on Roblox SCPF Area-937 and SCP:CB.
 
-A game based on Roblox SCPF Area-937.
+< Full version coming soon >
