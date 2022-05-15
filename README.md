@@ -2,4 +2,4 @@
 
 # [ Coming soon ]
 
-A game based on Robloc SCPF Area-937.
+A game based on Roblox SCPF Area-937.
